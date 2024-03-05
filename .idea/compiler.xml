@@ -12,7 +12,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="banking" target="17" />
+      <module name="banking.main" target="17" />
+      <module name="banking.test" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
